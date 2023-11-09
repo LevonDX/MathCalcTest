@@ -18,7 +18,6 @@ namespace MathCalcTest
 
 		public string GetMethodName()
 		{
-			// inch vor xeloq baner
 			int index = Expression.IndexOf('(');   
 
 			if (index == -1)
