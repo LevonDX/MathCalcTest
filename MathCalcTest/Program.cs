@@ -6,6 +6,7 @@
 		{
 			CalcExpression calcExpression1 = new CalcExpression("sqrt(100)");
 
+			// inch vor xeloq baner
 			double result1 = calcExpression1.Calculate();
 
 			Console.WriteLine(result1);
